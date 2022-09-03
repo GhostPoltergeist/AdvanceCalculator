@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ZXZ\Desktop\AdVc.jar</jar>
+  <outfile>C:\Users\ZXZ\Desktop\ADVC.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ZXZ\Desktop\calcu.ico</icon>
+  <jre>
+    <path>17.0</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.1.0.0</fileVersion>
+    <txtFileVersion>0.1.0.0</txtFileVersion>
+    <fileDescription>AdvanceCalculator</fileDescription>
+    <copyright>Ghost(c)2022</copyright>
+    <productVersion>0.1.0.0</productVersion>
+    <txtProductVersion>0.1.0.0</txtProductVersion>
+    <productName>AdvanceCalculator</productName>
+    <companyName>PersonalProject</companyName>
+    <internalName>AdvanceCalculator</internalName>
+    <originalFilename>AdvanceCalculator.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
